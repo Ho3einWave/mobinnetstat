@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Ho3einWave/mobinnetstat#readme",
   "dependencies": {
-    "discord.js": "^13.6.0"
+    "axios": "^0.26.0",
+    "discord.js": "^13.6.0",
+    "jsdom": "^19.0.0"
   }
 }
