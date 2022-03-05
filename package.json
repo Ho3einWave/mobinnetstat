@@ -1,0 +1,22 @@
+{
+  "name": "mobinnetstat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ho3einWave/mobinnetstat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ho3einWave/mobinnetstat/issues"
+  },
+  "homepage": "https://github.com/Ho3einWave/mobinnetstat#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
