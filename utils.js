@@ -7,5 +7,6 @@ exports.login = async(username, password, BASE_URL) => {
     let LOCATION = redirect.request.path
     let SERVICEID = LOCATION.split('/')
     SERVICEID = SERVICEID[SERVICEID.length - 1]
+    console.log("Logged in into panel!");
     return { cookie: COOKIES, location: LOCATION, serviceid: SERVICEID }
 }
